@@ -1,5 +1,5 @@
 import MainContent from "./MainContent";
-import Sidebar from "./sidebar";
+import Sidebar from "./Sidebar";
 
 function Home() {
     return (
