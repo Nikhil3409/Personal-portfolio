@@ -1,0 +1,133 @@
+[
+    {
+        "title": "Online Book Store",
+        "subDesc": "A full-featured online bookstore to browse, buy, rate, and review books. Includes secure authentication, user dashboards, and admin management tools.",
+        "desc": "A full-stack, single-page web application (SPA) that allows users to explore, purchase, rate, and comment on books. Built with the MERN stack (MongoDB, ExpressJS, NodeJS, and Angular), this project showcases real-world features like authentication, user roles, purchase history, and admin moderation.",
+        "techStack": [
+            {
+                "name": "Angular",
+                "url": "/images/angular.svg"
+            },
+            {
+                "name": "NodeJS",
+                "url": "/images/nodejs.svg"
+            },
+            {
+                "name": "ExpressJS",
+                "url": "/images/expressjs.svg"
+            },
+            {
+                "name": "MongoDB",
+                "url": "/images/mongodb.svg"
+            },
+            {
+                "name": "TypeScipt",
+                "url": "/images/typescript.svg"
+            },
+            {
+                "name": "Bootstrap",
+                "url": "/images/bootstrap.svg"
+            },
+            {
+                "name": "HTML5",
+                "url": "/images/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "url": "/images/css3.svg"
+            }
+        ],
+        "keyFeatures": [
+            "Browse all available books",
+            "View detailed book information, ratings, and user comments",
+            "Login/Register",
+            "Buy books and manage a personal purchase history",
+            "Rate and comment on books",
+            "Maintain a favorite books list",
+            "Customize their profile with avatars",
+            "Add, edit, and delete books",
+            "Moderate user comments and block users when necessary",
+            "Manage inappropriate user avatars"
+        ],
+        "architectureHighlights": [
+            "JWT Interceptors for secure API access",
+            "Role-based route guards for authentication and authorization",
+            "Fully reactive forms and form validation",
+            "Database seeding and startup scripts",
+            "Clean code structure using TypeScript models and modular architecture"
+        ],
+        "img": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+        "screenshots": [
+            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg"
+        ],
+        "url": "https://github.com/Nikhil3409/Digital-Bookstore"
+    },
+    {
+        "title": "MealPlanner",
+        "subDesc": "MealPlanner is a full-stack app that lets users plan meals, track ingredients, and generate smart shopping lists via calendar interface.",
+        "desc": "MealPlanner is a full-stack web application that helps users plan daily meals, track ingredients, and generate smart shopping lists. It streamlines weekly meal prep and minimizes grocery waste with a user-friendly calendar interface and real-time list management.",
+        "techStack": [
+            {
+                "name": "React",
+                "url": "/images/react.svg"
+            },
+            {
+                "name": "NodeJS",
+                "url": "/images/nodejs.svg"
+            },
+            {
+                "name": "ExpressJS",
+                "url": "/images/expressjs.svg"
+            },
+            {
+                "name": "TypeScipt",
+                "url": "/images/typescript.svg"
+            },
+            {
+                "name": "MongoDB",
+                "url": "/images/mongodb.svg"
+            },
+            {
+                "name": "Mongoose",
+                "url": "/images/mongoose.svg"
+            },
+            {
+                "name": "Material-UI",
+                "url": "/images/materialUI.png"
+            },
+            {
+                "name": "HTML5",
+                "url": "/images/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "url": "/images/css3.svg"
+            }
+        ],
+        "keyFeatures": [
+            "Interactive calendar to view and plan meals",
+            "Add new meals for specific dates",
+            "Generate shopping list based on meals and available ingredients",
+            "Set and manage ingredients you already have",
+            "Export shopping list via copy, print, or email",
+            "User authentication and profile management"
+        ],
+        "architectureHighlights": [
+            "MongoDB and Mongoose for flexible schema modeling",
+            "Modular ExpressJS API for meals, users, and ingredients",
+            "Component-based React UI with Material-UI styling",
+            "Local DB setup for full offline development and testing",
+            "Integrated CLI setup for quick project initialization"
+        ],
+        "img": "/images/mealPlanner_1.png",
+        "screenshots": [
+            "/images/mealPlanner_1.png",
+            "/images/mealPlanner_2.png"
+        ],
+        "url": "https://github.com/Nikhil3409/Meal-Planner"
+    }
+]
