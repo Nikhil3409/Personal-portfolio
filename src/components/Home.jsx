@@ -4,7 +4,7 @@ import Sidebar from "./Sidebar";
 function Home() {
     return (
         <>
-            <Sidebar></Sidebar>
+            {/* <Sidebar></Sidebar> */}
             <MainContent></MainContent>
         </>
     )

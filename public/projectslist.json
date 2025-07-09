@@ -37,24 +37,25 @@
                 "url": "/images/css3.svg"
             }
         ],
+        "role": "Full Stack Developer",
         "keyFeatures": [
-            "Browse all available books",
-            "View detailed book information, ratings, and user comments",
-            "Login/Register",
-            "Buy books and manage a personal purchase history",
-            "Rate and comment on books",
-            "Maintain a favorite books list",
-            "Customize their profile with avatars",
-            "Add, edit, and delete books",
-            "Moderate user comments and block users when necessary",
-            "Manage inappropriate user avatars"
+            "- Browse all available books",
+            "- View detailed book information, ratings, and user comments",
+            "- Login/Register",
+            "- Buy books and manage a personal purchase history",
+            "- Rate and comment on books",
+            "- Maintain a favorite books list",
+            "- Customize their profile with avatars",
+            "- Add, edit, and delete books",
+            "- Moderate user comments and block users when necessary",
+            "- Manage inappropriate user avatars"
         ],
         "architectureHighlights": [
-            "JWT Interceptors for secure API access",
-            "Role-based route guards for authentication and authorization",
-            "Fully reactive forms and form validation",
-            "Database seeding and startup scripts",
-            "Clean code structure using TypeScript models and modular architecture"
+            "- JWT Interceptors for secure API access",
+            "- Role-based route guards for authentication and authorization",
+            "- Fully reactive forms and form validation",
+            "- Database seeding and startup scripts",
+            "- Clean code structure using TypeScript models and modular architecture"
         ],
         "img": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
         "screenshots": [
@@ -108,20 +109,21 @@
                 "url": "/images/css3.svg"
             }
         ],
+        "role": "Full Stack Developer",
         "keyFeatures": [
-            "Interactive calendar to view and plan meals",
-            "Add new meals for specific dates",
-            "Generate shopping list based on meals and available ingredients",
-            "Set and manage ingredients you already have",
-            "Export shopping list via copy, print, or email",
-            "User authentication and profile management"
+            "- Interactive calendar to view and plan meals",
+            "- Add new meals for specific dates",
+            "- Generate shopping list based on meals and available ingredients",
+            "- Set and manage ingredients you already have",
+            "- Export shopping list via copy, print, or email",
+            "- User authentication and profile management"
         ],
         "architectureHighlights": [
-            "MongoDB and Mongoose for flexible schema modeling",
-            "Modular ExpressJS API for meals, users, and ingredients",
-            "Component-based React UI with Material-UI styling",
-            "Local DB setup for full offline development and testing",
-            "Integrated CLI setup for quick project initialization"
+            "- MongoDB and Mongoose for flexible schema modeling",
+            "- Modular ExpressJS API for meals, users, and ingredients",
+            "- Component-based React UI with Material-UI styling",
+            "- Local DB setup for full offline development and testing",
+            "- Integrated CLI setup for quick project initialization"
         ],
         "img": "/images/mealPlanner_1.png",
         "screenshots": [
@@ -129,5 +131,138 @@
             "/images/mealPlanner_2.png"
         ],
         "url": "https://github.com/Nikhil3409/Meal-Planner"
+    },
+    {
+        "title": "Manufacturing Intelligence",
+        "subDesc": "As a Frontend Developer, I built reusable Angular components, dynamic forms, and responsive dashboards, enabling real-time analytics, customizable UI, and voice-assisted interactions.",
+        "desc": "An advanced Angular-based web application built to optimize manufacturing efficiency through real-time analytics, configurable dashboards, and voice-assisted commands. The app enables end-to-end traceability and intelligent reporting with dynamic forms and reusable UI components.",
+        "techStack": [
+            {
+                "name": "Angular",
+                "url": "/images/angular.svg"
+            },
+            {
+                "name": "Chart.js",
+                "url": "/images/chartjs.svg"
+            },
+            {
+                "name": "TypeScript",
+                "url": "/images/typescript.svg"
+            },
+            {
+                "name": "HTML5",
+                "url": "/images/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "url": "/images/css3.svg"
+            },
+            {
+                "name": "Bootstrap",
+                "url": "/images/bootstrap.svg"
+            }
+        ],
+        "role": "Frontend Developer",
+        "responsibilities": [
+            "- Developed a responsive, modular UI using Angular framework and Bootstrap.",
+            "- Created dynamic and configurable dashboards and reports with Chart.js and Angular.",
+            "- Built reusable UI components and reactive forms driven by user-defined configurations.",
+            "- Implemented real-time analytics, voice-assisted interactions, and visual/tabular data views.",
+            "- Enabled dynamic UI label customization and end-to-end user traceability."
+        ],
+        "keyFeatures": [
+            "- End-to-End Traceability",
+            "- Dynamic Forms & Configurable Dashboards",
+            "- Voice-Assisted Navigation & Analytics",
+            "- Real-Time Data Visibility and Reporting",
+            "- Label Customization Directly from UI"
+        ],
+        "keyAdvantages": [
+            "- Track 4Ms - Man, Machine, Method, and Material",
+            "- Process Validation & Sequential Control",
+            "- Advanced Analytics and Visualizations",
+            "- Highly Scalable, Modular, and Configurable Architecture"
+        ],
+        "businessOutcomes": [
+            "- Increased production efficiency by enabling real-time data visibility and automated analytics.",
+            "- Reduced quality deviations through process validation and sequential control features.",
+            "- Improved decision-making with dynamic, configurable dashboards and visual reports.",
+            "- Delivered a responsive, user-friendly interface that adapts across devices and screen sizes.",
+            "- Enabled users to build custom forms and labels directly from the UI, reducing backend dependencies.",
+            "- Reduced training time with intuitive navigation and voice-assisted interactions.",
+            "- Boosted customer profitability by optimizing resource utilization and minimizing downtime.",
+            "- Enhanced traceability and compliance with end-to-end tracking of materials and processes."
+        ],
+        "img": "https://hexagon.com/-/media/project/one-web/master-site/mi/open-graph-images/manufacturing-intelligence.jpg",
+        "screenshots": [],
+        "url": ""
+    },
+    {
+        "title": "RFID Scanner Interface Portal",
+        "desc": "A full-stack RFID reader management system enabling device health monitoring, remote configuration, real-time tag reading, and operational control through an Angular-NodeJS powered web portal.",
+        "subDesc": "As a full-stack developer, I built reusable UI components, created dynamic dashboards, enabled real-time socket communication, and implemented device control/configuration features.",
+        "techStack": [
+            {
+                "name": "Angular",
+                "url": "/images/angular.svg"
+            },
+            {
+                "name": "NodeJS",
+                "url": "/images/nodejs.svg"
+            },
+            {
+                "name": "ExpressJS",
+                "url": "/images/expressjs.svg"
+            },
+            {
+                "name": "TypeScript",
+                "url": "/images/typescript.svg"
+            },
+            {
+                "name": "Socket.io",
+                "url": "/images/socket.svg"
+            },
+            {
+                "name": "HTML5",
+                "url": "/images/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "url": "/images/css3.svg"
+            },
+            {
+                "name": "Angular Material",
+                "url": "/images/angular-material.svg"
+            }
+        ],
+        "role": "Full Stack Developer",
+        "keyFeatures": [
+            "- Monitor RFID device health status in real-time",
+            "- Start and stop RFID read operations from the UI",
+            "- Real-time RFID tag reading and display via Socket communication",
+            "- Fully configurable device settings through the portal",
+            "- Generate tabular and graphical reports of read tags",
+            "- Role-based access for secured operations",
+            "- Reusable UI components for scalable architecture",
+            "- Interactive dashboards with Angular Material"
+        ],
+        "architectureHighlights": [
+            "- Socket.io integration for live communication with hardware",
+            "- Node.js and Express backend APIs for device configuration and data management",
+            "- Fully responsive UI built with Angular and Angular Material",
+            "- Configurable dashboard components based on user roles and device states",
+            "- Secure, efficient, and scalable communication with Linux-based RFID hardware"
+        ],
+        "businessOutcomes": [
+            "- Reduced manual device handling time by over 60% with real-time remote control features.",
+            "- Enabled proactive monitoring, cutting unplanned downtime by up to 45%.",
+            "- Improved operational transparency with centralized dashboards and tag visibility.",
+            "- Accelerated decision-making via real-time analytics and dynamic reporting.",
+            "- Minimized configuration errors with UI-driven device settings and validation.",
+            "- Enhanced user engagement through a modern and responsive UI built with Angular Material."
+        ],
+        "img": "https://ogtech.com/wp-content/uploads/2024/07/Work-Flow-Warehouse.webp",
+        "screenshots": [],
+        "url": ""
     }
 ]

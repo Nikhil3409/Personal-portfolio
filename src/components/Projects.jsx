@@ -45,6 +45,7 @@ function Projects() {
                                     </figure>
                                     <div className="blog-content">
                                         <h3 className="h3 blog-item-title">{project.title}</h3>
+                                        <h4 className="projectRole">{project.role}</h4>
                                         <p className="blog-text">
                                             {project.subDesc}
                                         </p>
