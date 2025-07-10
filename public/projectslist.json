@@ -1,6 +1,7 @@
 [
     {
         "title": "Online Book Store",
+        "type": "Personal",
         "subDesc": "A full-featured online bookstore to browse, buy, rate, and review books. Includes secure authentication, user dashboards, and admin management tools.",
         "desc": "A full-stack, single-page web application (SPA) that allows users to explore, purchase, rate, and comment on books. Built with the MERN stack (MongoDB, ExpressJS, NodeJS, and Angular), this project showcases real-world features like authentication, user roles, purchase history, and admin moderation.",
         "techStack": [
@@ -59,16 +60,13 @@
         ],
         "img": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
         "screenshots": [
-            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
-            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
-            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
-            "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
             "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg"
         ],
         "url": "https://github.com/Nikhil3409/Digital-Bookstore"
     },
     {
         "title": "MealPlanner",
+        "type": "Personal",
         "subDesc": "MealPlanner is a full-stack app that lets users plan meals, track ingredients, and generate smart shopping lists via calendar interface.",
         "desc": "MealPlanner is a full-stack web application that helps users plan daily meals, track ingredients, and generate smart shopping lists. It streamlines weekly meal prep and minimizes grocery waste with a user-friendly calendar interface and real-time list management.",
         "techStack": [
@@ -134,6 +132,7 @@
     },
     {
         "title": "Manufacturing Intelligence",
+        "type": "Professional",
         "subDesc": "As a Frontend Developer, I built reusable Angular components, dynamic forms, and responsive dashboards, enabling real-time analytics, customizable UI, and voice-assisted interactions.",
         "desc": "An advanced Angular-based web application built to optimize manufacturing efficiency through real-time analytics, configurable dashboards, and voice-assisted commands. The app enables end-to-end traceability and intelligent reporting with dynamic forms and reusable UI components.",
         "techStack": [
@@ -199,6 +198,7 @@
     },
     {
         "title": "RFID Scanner Interface Portal",
+        "type": "Professional",
         "desc": "A full-stack RFID reader management system enabling device health monitoring, remote configuration, real-time tag reading, and operational control through an Angular-NodeJS powered web portal.",
         "subDesc": "As a full-stack developer, I built reusable UI components, created dynamic dashboards, enabled real-time socket communication, and implemented device control/configuration features.",
         "techStack": [
@@ -264,5 +264,168 @@
         "img": "https://ogtech.com/wp-content/uploads/2024/07/Work-Flow-Warehouse.webp",
         "screenshots": [],
         "url": ""
+    },
+    {
+        "title": "Condition Monitoring",
+        "type": "Professional",
+        "subDesc": "Front-end Angular developer responsible for building real-time dashboards and responsive UI to monitor critical industrial assets remotely.",
+        "desc": "A real-time web-based Condition Monitoring solution powered by IoT and MQTT. The system helps enterprises reduce equipment downtime, optimize performance, and make data-driven decisions by tracking live and historical parameters like temperature, pressure, energy, and vibrations. Designed to support responsive dashboards, alerts, and deep insights from sensor data.",
+        "techStack": [
+            {
+                "name": "Angular",
+                "url": "/images/angular.svg"
+            },
+            {
+                "name": "TypeScript",
+                "url": "/images/typescript.svg"
+            },
+            {
+                "name": "MQTT",
+                "url": ""
+            },
+            {
+                "name": "HTML5",
+                "url": "/images/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "url": "/images/css3.svg"
+            },
+            {
+                "name": "Bootstrap",
+                "url": "/images/bootstrap.svg"
+            },
+            {
+                "name": "Angular Material",
+                "url": "/images/angularmaterial.svg"
+            }
+        ],
+        "role": "Frontend Developer",
+        "keyFeatures": [
+            "- Live monitoring of critical asset parameters (e.g. temperature, power, vibration)",
+            "- Device-specific configurable dashboards with dynamic widgets",
+            "- Tabular and graphical representation of historical data",
+            "- Custom alerts and thresholds based on real-time metrics",
+            "- User-friendly responsive design supporting mobile and desktop",
+            "- Reusable components and optimized Angular architecture"
+        ],
+        "businessOutcomes": [
+            "- 40% reduction in equipment downtime through proactive monitoring",
+            "- Real-time alerts helped reduce maintenance response time by 30%",
+            "- Unified dashboards improved decision-making across departments",
+            "- Enabled asset health transparency for over 100+ deployed sensors",
+            "- Streamlined monitoring cut manual inspection efforts by half",
+            "- Improved mobile access to asset data for field engineers"
+        ],
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4OmQUEquKWa-xsYT9sl3MPhvX2xebxAcdw&s",
+        "screenshots": [],
+        "url": ""
+    },
+    {
+        "title": "Crypto Portfolio Manager",
+        "type": "Personal",
+        "techStack": [
+            {
+                "name": "React",
+                "url": "/images/react.svg"
+            },
+            {
+                "name": "TypeScipt",
+                "url": "/images/typescript.svg"
+            },
+            {
+                "name": "HTML5",
+                "url": "/images/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "url": "/images/css3.svg"
+            },
+            {
+                "name": "Chakra-UI",
+                "url": ""
+            }
+        ],
+        "desc": "A modern cryptocurrency portfolio management application that provides users with real-time wallet insights, transaction history, and market performance tracking.",
+        "subDesc": "Built an interactive and responsive portfolio dashboard enabling users to monitor crypto assets, visualize market trends, and manage transactions seamlessly.",
+        "role": "Frontend Developer",
+        "keyFeatures": [
+            "- Real-time BTC and INR wallet balance display",
+            "- Interactive graph with 1H, 1D, 1W, and 1M filters",
+            "- Buy/Sell functionality with intuitive buttons",
+            "- Recent transactions panel with status indicators",
+            "- Detailed transaction table with filters and CSV export",
+            "- Contact form with live chat integration"
+        ],
+        "architectureHighlights": [
+            "- Improved transaction navigation by 35% through categorized and color-coded history",
+            "- Reduced user decision time by 40% using real-time data visualization",
+            "- Increased engagement by 30% via responsive and minimalistic design",
+            "- Boosted customer trust through clearly tracked deposits and withdrawals",
+            "- Enhanced accessibility by enabling responsive UI across devices"
+        ],
+        "img": "/images/crypto_1.png",
+        "screenshots": [
+            "/images/crypto_1.png",
+            "/images/crypto_2.png",
+            "/images/crypto_3.png",
+            "/images/crypto_4.png"
+        ],
+        "url": "https://github.com/Nikhil3409/Crypto-Dashboard"
+    },
+    {
+        "title": "FoodZone",
+        "type": "Personal",
+        "subDesc": "Online food ordering portal",
+        "techStack": [
+            {
+                "name": "React",
+                "url": "/images/react.svg"
+            },
+            {
+                "name": "NodeJS",
+                "url": "/images/nodejs.svg"
+            },
+            {
+                "name": "ExpressJS",
+                "url": "/images/expressjs.svg"
+            },
+            {
+                "name": "TypeScipt",
+                "url": "/images/typescript.svg"
+            },
+            {
+                "name": "HTML5",
+                "url": "/images/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "url": "/images/css3.svg"
+            }
+        ],
+        "desc": "FoodZone is an intuitive online food ordering platform built using React and Node.js. It allows users to browse food items categorized by meal types such as Breakfast, Lunch, and Dinner. Users can search, view, and purchase food through a clean and responsive interface.",
+        "role": "Full Stack Developer",
+        "responsibilities": [
+            "- Designed and developed a full-stack food ordering web application using React and Node.js.",
+            "- Implemented a category-based filtering system to dynamically show food items.",
+            "- Created reusable components for displaying food cards, filter buttons, and cart functionality.",
+            "- Integrated backend with Express.js to serve food item data and handle purchases.",
+            "- Added real-time search feature to filter food items based on user input.",
+            "- Built a responsive UI with pricing, description, and visual thumbnails of food."
+        ],
+        "keyFeatures": [
+            "- Filter food items by Breakfast, Lunch, and Dinner",
+            "- Real-time search functionality",
+            "- Display food details with image, description, and price",
+            "- Add-to-cart and buy now functionality",
+            "- Clean and modern user interface with background image integration"
+        ],
+        "img": "/images/online_food_order_1.png",
+        "screenshots": [
+            "/images/online_food_order_1.png",
+            "/images/online_food_order_2.png",
+            "/images/online_food_order_3.png"
+        ],
+        "url": "https://github.com/Nikhil3409/Online-Food-Order"
     }
 ]

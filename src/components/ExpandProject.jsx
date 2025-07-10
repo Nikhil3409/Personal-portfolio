@@ -121,9 +121,9 @@ function ExpandProject({ open, onClose, scroll, project }) {
                     </div>
                 </DialogContentText>
             </DialogContent>
-            {/* <DialogActions>
+            <DialogActions>
                 <Button onClick={onClose}>Close</Button>
-            </DialogActions> */}
+            </DialogActions>
         </Dialog>
     );
 }

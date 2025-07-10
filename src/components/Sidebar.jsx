@@ -37,17 +37,15 @@ function Sidebar() {
                                 <a href="tel:+12133522795" className="contact-link">+91 7262054495</a>
                             </div>
                         </li>
-
-                        {/* <li className="contact-item">
-                <div className="icon-box">
-                  <ion-icon name="calendar-outline"></ion-icon>
-                </div>
-                <div className="contact-info">
-                  <p className="contact-title">Birthday</p>
-                  <time dateTime="1982-06-23">June 23, 1982</time>
-                </div>
-              </li> */}
-
+                        <li className="contact-item">
+                            <div className="icon-box">
+                                <ion-icon name="calendar-outline"></ion-icon>
+                            </div>
+                            <div className="contact-info">
+                                <p className="contact-title">Birthday</p>
+                                <time dateTime="2000-03-19">19 March 2000</time>
+                            </div>
+                        </li>
                         <li className="contact-item">
                             <div className="icon-box">
                                 <ion-icon name="location-outline"></ion-icon>
