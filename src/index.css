@@ -1570,7 +1570,7 @@ textarea.form-input::-webkit-resizer {
     }
 
     .about-text {
-        margin-bottom: 40px;
+        margin-bottom: 30px;
     }
 
     /* service */
@@ -2360,4 +2360,9 @@ textarea.form-input::-webkit-resizer {
 .parentContainer {
     display: flex;
     justify-content: space-between;
+}
+
+.resumeButton {
+    margin: 0;
+    margin-bottom: 30px;
 }

@@ -3,7 +3,7 @@ function Experience() {
         <>
             <article className="experience active" data-page="experience">
                 <header>
-                    <h2 className="h2 article-title">+</h2>
+                    <h2 className="h2 article-title">Experience</h2>
                 </header>
                 <section className="timeline">
                     {/* <div className="title-wrapper">
