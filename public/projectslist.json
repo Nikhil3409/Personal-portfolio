@@ -427,5 +427,73 @@
             "/images/online_food_order_3.png"
         ],
         "url": "https://github.com/Nikhil3409/Online-Food-Order"
+    },
+    {
+        "title": "Asset Intelligence Platform",
+        "type": "Professional",
+        "subDesc": "As a Frontend Developer, I developed responsive Angular components and dashboards, integrated MQTT for real-time tracking, and enabled actionable insights for OT/IoT security and asset management.",
+        "desc": "An advanced Angular-based web application designed to deliver precise IoT asset inventory, real-time tracking, and security risk insights. The platform provides enriched asset profiles, real-time location monitoring using MQTT, and a risk scoring system to assess and benchmark security across sites, zones, and devices.",
+        "techStack": [
+            {
+                "name": "Angular",
+                "url": "/images/angular.svg"
+            },
+            {
+                "name": "TypeScript",
+                "url": "/images/typescript.svg"
+            },
+            {
+                "name": "HTML5",
+                "url": "/images/html5.svg"
+            },
+            {
+                "name": "CSS3",
+                "url": "/images/css3.svg"
+            },
+            {
+                "name": "MQTT",
+                "url": "/images/mqtt.svg"
+            },
+            {
+                "name": "Bootstrap",
+                "url": "/images/bootstrap.svg"
+            },
+            {
+                "name": "Angular Material",
+                "url": "/images/angular-material.svg"
+            }
+        ],
+        "role": "Frontend Developer",
+        "responsibilities": [
+            "- Developed reusable and responsive Angular components using Angular Material and Bootstrap.",
+            "- Integrated MQTT protocol for real-time asset data ingestion and updates.",
+            "- Built dashboards to visualize asset risks, status, and location.",
+            "- Implemented dynamic UI for asset profiling, inventory tracking, and risk analysis.",
+            "- Collaborated with backend team to handle secure data flow and asset lifecycle tracking."
+        ],
+        "keyFeatures": [
+            "- Near 100% Accurate Asset Inventory",
+            "- Real-Time Asset Tracking with MQTT",
+            "- Asset Risk Scoring and Benchmarking",
+            "- Visual Dashboards for Zones, Sites, and Devices",
+            "- Lifecycle Management and Security Insights"
+        ],
+        "keyAdvantages": [
+            "- Enhanced Operational Resilience",
+            "- Data-Driven Decision Making",
+            "- Improved Asset Visibility and Utilization",
+            "- Real-Time Risk Awareness Across Environments",
+            "- Scalable Design for Large-Scale IoT Deployments"
+        ],
+        "businessOutcomes": [
+            "- Enabled real-time tracking and location monitoring of critical assets.",
+            "- Reduced asset misplacement and downtime through accurate inventory.",
+            "- Improved IoT security posture with actionable risk assessments.",
+            "- Provided visibility into device status and threats across all operational levels.",
+            "- Empowered teams to benchmark performance and track risk reduction over time."
+        ],
+        "img": "https://mongrov.com/assets/img/mong/blog9.jpg", 
+        "screenshots": [],
+        "url": ""
     }
 ]
