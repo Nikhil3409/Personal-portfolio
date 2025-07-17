@@ -5,8 +5,8 @@ import ExpandProject from "./ExpandProject";
 function Projects() {
     let projectType = [
         { lable: "All", type: 'all' },
-        { lable: "Personal Project", type: 'Personal' },
-        { lable: "Professional Project", type: 'Professional' }
+        { lable: "Professional Project", type: 'Professional' },
+        { lable: "Personal Project", type: 'Personal' }
     ];
     let [filteredProjects, setFilteredProjects] = useState(projects);
     const [selectedType, setSelectedType] = useState("all");
