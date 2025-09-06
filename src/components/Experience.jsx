@@ -21,7 +21,7 @@ function Experience() {
                                 </div>
                                 <div className="childContainer">
                                     <h4 className="h4 timeline-item-title">Pune, Maharashtra</h4>
-                                    <span>Nov 2022 — Present</span>
+                                    <span>Nov 2022 — Aug 2025</span>
                                 </div>
                             </div>
                             <ul className="experienceSection">
